@@ -1,0 +1,29 @@
+*
+{
+    text-align: center;
+    
+}
+h1{
+    text-align: center;
+    color: #1411bb;
+
+}
+p{
+    te
+    color: #0f070d;
+
+}
+body{
+    background-color: rgb(145, 255, 0);
+}
+img{
+    padding: 50px;
+    width: 300px;
+   
+}
+img{
+    padding: 50px;
+    width: 300px;
+    border-radius: 30%;
+    animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+}
